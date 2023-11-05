@@ -1,0 +1,7 @@
+C:\Users\joaoj\Desktop\jottadevs\Progamação\csharp\Validador do cpf\Validador do cpf\bin\Debug\Validador do cpf.exe.config
+C:\Users\joaoj\Desktop\jottadevs\Progamação\csharp\Validador do cpf\Validador do cpf\bin\Debug\Validador do cpf.exe
+C:\Users\joaoj\Desktop\jottadevs\Progamação\csharp\Validador do cpf\Validador do cpf\bin\Debug\Validador do cpf.pdb
+C:\Users\joaoj\Desktop\jottadevs\Progamação\csharp\Validador do cpf\Validador do cpf\obj\Debug\Validador do cpf.csproj.AssemblyReference.cache
+C:\Users\joaoj\Desktop\jottadevs\Progamação\csharp\Validador do cpf\Validador do cpf\obj\Debug\Validador do cpf.csproj.CoreCompileInputs.cache
+C:\Users\joaoj\Desktop\jottadevs\Progamação\csharp\Validador do cpf\Validador do cpf\obj\Debug\Validador do cpf.exe
+C:\Users\joaoj\Desktop\jottadevs\Progamação\csharp\Validador do cpf\Validador do cpf\obj\Debug\Validador do cpf.pdb
